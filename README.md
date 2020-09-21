@@ -1,2 +1,0 @@
-# DataScience
-DS Study
